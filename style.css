@@ -1,0 +1,9 @@
+.carousel-item {
+  position: relative;
+}
+
+.btn-1 {
+  position: absolute;
+  bottom: 50px;
+  left: 85px;
+}
